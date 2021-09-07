@@ -15,4 +15,4 @@ git status
 ## Resources
 - [Git Status Documentation](http://git-scm.com/docs/git-status)
 ---
-[Back to home](../README/md)
+[Back to home](../README.md)
