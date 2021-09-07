@@ -7,6 +7,6 @@ git pull origin name
 ```
 If there is any upstream connection established, you can use `git pull` without specifying a remote branch. 
 ## Resources
--[Git Pull Documentation](https://git-scm.com/docs/git-pull)
+- [Git Pull Documentation](https://git-scm.com/docs/git-pull)
 ---
 [Back to home](../README.md)

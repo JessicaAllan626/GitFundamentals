@@ -5,7 +5,6 @@ Generally, you can get away with the command `git add.` which will add ALL files
 You can track changes to specific files using `git add file1 file2` which will track specifically file1 and file2.
 You can specify tracking directories with `git add DirectoryName`. 
 ## Resources
--[Git Add Documentation](https://git-scm.com/docs/git-add)
+- [Git Add Documentation](https://git-scm.com/docs/git-add)
 ---
 [Back to home](../README.md)
- 
