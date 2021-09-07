@@ -13,6 +13,6 @@ Here is a growing collection of resouorces and helpful commands to know when wor
 - [git clone](./Commands/Clone.md)
 ## External Resouorces
 - [Markdown Cheat Sheet](https://www.markdownguuide.org/cheat-sheet/)
--[git Documentation](https://git-scm.com/docs)
+- [git Documentation](https://git-scm.com/docs)
 - [gitignore Documentation](https://git-scm.com/docs/gitignore)
--[git Branches](https://git-scm.com/book/en/v2/Gait-Branching-Branches-in-a-Nutshell)
+- [git Branches](https://git-scm.com/book/en/v2/Gait-Branching-Branches-in-a-Nutshell)
