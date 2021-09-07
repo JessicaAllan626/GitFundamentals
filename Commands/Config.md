@@ -9,5 +9,5 @@ For more information, view the [first time git setup] (http://git-scm.com/book/e
 ## Resources
 - [Git Config Doccumentation] (http://git-scm.com/docs/git-config) 
 ---
-[Back to home] 
-(.. / README.md)
+[Back to home](../README.md)
+
